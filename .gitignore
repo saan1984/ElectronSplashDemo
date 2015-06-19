@@ -1,0 +1,11 @@
+node_modules
+bower_components
+*.log
+.DS_Store
+Thumbs.db
+/build/
+/releases/
+/tmp/
+.idea
+build
+app/node_modules

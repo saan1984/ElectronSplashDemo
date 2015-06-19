@@ -1,0 +1,18 @@
+{
+  "name": "ElectronSplashDemo",
+  "productName": "ElectronSplashDemo",
+  "description": "ElectronSplashDemo",
+  "version": "0.0.1",
+  "author": "Sandeep",
+  "main": "main.js",
+  "config": {
+    "target": "development"
+  },
+  "dependencies": {
+    "angular": "^1.3.16",
+    "angular-bootstrap": "^0.12.0",
+    "bootstrap": "^3.3.4",
+    "datauri": "^0.7.1",
+    "fs-jetpack": "^0.6.4"
+  }
+}
